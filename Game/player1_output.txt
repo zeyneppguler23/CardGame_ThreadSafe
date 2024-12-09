@@ -1,0 +1,24 @@
+Player 1 wins with hand: [5, 5, 5, 5]
+Player 1 discards 2 to Deck 2
+Player 1 exits after the game ends.
+Final hand of player 1: []
+Player 1 draws 1 from Deck 1
+Player 1 has only preferred cards and skips discard.
+Current hand for player 1: [1]
+Player 1 draws 2 from Deck 1
+Player 1 discards 2 to Deck 2
+Current hand for player 1: [1]
+Player 1 exits after the game ends.
+Final hand of player 1: [1]
+Player 1 draws 1 from Deck 1
+Player 1 draws 2 from Deck 1
+Player 1 draws 1 from Deck 1
+Player 1 has only preferred cards and skips discard.
+Current hand for player 1: [1]
+Player 1 exits after the game ends.
+Final hand of player 1: [1]
+Player 1 exits after the game ends.
+Final hand of player 1: [3, 3, 3, 3]
+Player 1 exits after the game ends.
+Final hand of player 1: []
+Player 1 wins with hand: [3, 3, 3, 3]
