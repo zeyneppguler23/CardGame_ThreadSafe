@@ -105,9 +105,9 @@ The pack file should contain integers, each representing a card's face value. Fo
 
 ---
 
-## Authors
-
-- **730093467**  
-- **730034362**  
+## Notes: 
+- This project uses Maven Structure, please refer to src to acces the game and tests
+- Test Suite has been included
+- This project received first-class grade for the 'Software Development' module. 
 
 Version 10.0
