@@ -1,6 +1,6 @@
 # Card Game Simulation
 
-This project simulates a multi-threaded card game for a specified number of players. The program reads a card pack from a file, distributes the cards to players and decks, and proceeds through gameplay until a winner is determined or the game ends. The project emphasizes thread safety, modularity, and extensibility.
+This project simulates a multi-threaded card game for a configurable number of players. The game features a robust implementation of thread-safe operations to ensure fair gameplay and to prevent race conditions between threads. The program accepts input through a pack file, handles the card distribution to players and decks, and runs until a winner emerges or the game ends. Players take turns drawing a card from one deck and discarding a card to another, with the game progressing in a cyclic manner. A player wins if their hand contains four cards of the same face value at any point during the game, including immediately after the initial card distribution. The project emphasizes thread safety, modularity, extensibility, and comprehensive testing
 
 ## Features
 
